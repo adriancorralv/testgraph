@@ -1,0 +1,14 @@
+{
+    "mensaje": "Se ha iniciado sesión correctamente",
+    "status": true,
+    "mensaje2": {
+        "email": "adrian.corral@cedhsonora.org.mx",
+        "password": null,
+        "area": "1",
+        "nombre": "JesusEnriquePerez Perez",
+        "id": "1295",
+        "token": "yJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJFbWFpbCI6ImFkcmlhbi5jb3JyYWxAY2VkaHNvbm9yYS5vcmcubXgiLCJOb21icmUiOiJBZHJpYW4gQ29ycmFsIFZhbGRleiIsIkFyZWEiOiIxIiwiSUQiOiIxMjk1IiwibmJmIjoxNzI2Nzg0OTY4LCJleHAiOjE3MjY4NzEzNjgsImlhdCI6MTcyNjc4NDk2OCwiaXNzIjoiVHVFbWlzb3IiLCJhdWQiOiJUdUF1ZGllbmNpYSJ9.7dYIu3-SUx9H8w1-hwiDgwzVE387Oi1TEvaKaC-ebg4",
+        "puesto": "Director de Sistemas e Informática"
+    },
+    "error": null
+}
